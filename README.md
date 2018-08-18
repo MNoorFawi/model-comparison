@@ -1,4 +1,4 @@
-Model Comparison
+[Model Comparison](https://github.com/MNoorFawi/Model-Comparison)
 ================
 
 finding a good model isn't always the main problem, sometimes there're other models that can give better results or we already have many. so comparing models is of big use in such cases.
